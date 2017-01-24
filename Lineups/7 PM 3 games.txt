@@ -1,0 +1,10 @@
+{u'ANDRE DRUMMOND': u'C',
+ u'ANDREW HARRISON': u'PG',
+ u'DEANDRE LIGGINS': u'SG',
+ u'DEMARCUS COUSINS': u'PF',
+ u'ISH SMITH': u'G',
+ u'JAMYCHAL GREEN': u'F',
+ u'MARC GASOL': 'Util',
+ u'MARCUS MORRIS': u'SF'}
+ 
+ proj: 325.5

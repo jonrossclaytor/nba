@@ -1,0 +1,10 @@
+{u'AVERY BRADLEY': u'SG',
+ u'DAVID LEE': u'F',
+ u'GORDON HAYWARD': 'Util',
+ u'KAWHI LEONARD': u'SF',
+ u'LAMARCUS ALDRIDGE': u'PF',
+ u'MARCUS SMART': u'G',
+ u'PATTY MILLS': u'PG',
+ u'PAU GASOL': u'C'}
+ 
+ proj: 250.5

@@ -1,0 +1,10 @@
+{u'ANDREW HARRISON': u'PG',
+ u'DEMARCUS COUSINS': u'PF',
+ u'JAMYCHAL GREEN': u'F',
+ u'LARRY NANCE': u'SF',
+ u'LOU WILLIAMS': u'SG',
+ u'MARC GASOL': 'Util',
+ u'TONY ALLEN': u'G',
+ u'TRISTAN THOMPSON': u'C'}
+ 
+ proj: 306.75

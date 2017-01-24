@@ -1,0 +1,10 @@
+{u'ANDREW HARRISON': u'G',
+ u'AVERY BRADLEY': u'SG',
+ u'DEMARCUS COUSINS': u'C',
+ u'ELFRID PAYTON': 'Util',
+ u'ERSAN ILYASOVA': u'PF',
+ u'KAWHI LEONARD': u'SF',
+ u'ROBERT COVINGTON': u'F',
+ u'TJ MCCONNELL': u'PG'}
+ 
+ proj: 377.5

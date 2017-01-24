@@ -1,0 +1,10 @@
+{u'ANDRE DRUMMOND': u'C',
+ u'AVERY BRADLEY': u'SG',
+ u'GORDON HAYWARD': u'SF',
+ u'ISH SMITH': u'PG',
+ u'JAE CROWDER': 'Util',
+ u'KAWHI LEONARD': u'F',
+ u'MARCUS MORRIS': u'PF',
+ u'PATTY MILLS': u'G'}
+ 
+ proj: 282.75
